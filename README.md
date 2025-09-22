@@ -1,0 +1,3 @@
+Since most of the projects are tied to the company’s business operations (with the exception of the graduation project on real-time fall detection) and are therefore company-owned, the source code is not available. However, I have provided corresponding explanations and methodologies for reference, and warmly welcome further discussion.
+
+Enclosed presentation slides of Monthly Sales Prediction of Alcohol Products on JD Platform and Regression Prediction of Customers Next Maintenance Date and Kilometers, which were presentation and knowledge-sharing sessions in the company’s Data Scientist department. Kindly for your reference.
